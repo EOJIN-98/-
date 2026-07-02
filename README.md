@@ -13,7 +13,7 @@
 - React
 - JavaScript
 - Firebase
-- openAI API
+- open AI API
 
 ## Developer
 
